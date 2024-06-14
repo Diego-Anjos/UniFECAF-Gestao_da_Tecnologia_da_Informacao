@@ -13,8 +13,7 @@ valor_h = float(input('Valor que recebe por hora: '))
 salario_bruto = horas_t * valor_h
 
 print ('Número do crachá: ', cracha)
-print ('Nome do funcionário: ', nome)
-print ('Cargo do funcionario: ', cargo)
-print ('Horas trabalhas: ', horas_t)
+print ('Nome do colaborador(a): ', nome)
+print ('Cargo do colaborador(a): ', cargo)
+print ('Horas trabalhadas: ', horas_t)
 print ('Valor que recebe por horas: ', valor_h)
-print ('Salario bruto total R$: ', salario_bruto)
