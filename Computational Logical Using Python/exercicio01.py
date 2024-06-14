@@ -1,5 +1,5 @@
 # 1) Um encanador precisa calcular as dimensões de uma tubulação que irá passar pela diagonal (tracejada) de um cômodo de uma casa 
-#  (as medidas lado1 + lado2 da casa, em metros, serão entradas do usuário).
+# (as medidas lado1 + lado2 da casa, em metros, serão entradas do usuário).
 
 # Faça um programa que leia os lados de um cômodo de uma casa e calcule a diagonal (em metros) do cômodo.
 
