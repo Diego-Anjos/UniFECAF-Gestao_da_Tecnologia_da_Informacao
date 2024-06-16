@@ -7,8 +7,8 @@ nota2 = float(input('Digite a nota 2: '))
 media = (nota1 + nota2 ) / 2
 
 if media >=6:
-    print ('Aprovado', media)
+    print ('Aprovado!', media)
 elif media >=4:
     print ('Recuperação!')
 else:
-    print ('Reprovado')
+    print ('Reprovado!')
