@@ -24,7 +24,7 @@ INSERT INTO tbl_cursos (nome_curso) VALUES ('GTI'), ('ADS'), ('ADM'), ('RH'), ('
 INSERT INTO tbl_alunos (nome_aluno,data_nasc_aluno,fk_curso) /* Adição de dados "Alunos". */
 VALUES ('Matheus Melo','1989-08-11', 2),
 ('Bruce Wayne Melo','2016-11-06', 3),
-('Madonna','1959-03-02', 4),
+('Ashley','1959-03-02', 4),
 ('Gisele','2006-01-22', 2);
 
 SELECT tbl_alunos.nome_aluno, tbl_cursos.nome_curso
