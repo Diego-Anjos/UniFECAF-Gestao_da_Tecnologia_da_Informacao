@@ -1,0 +1,52 @@
+AGILE METHODS
+Temas aprendidos em Aula:
+- Kanban.
+- Scrum.
+- Manifesto ágil.
+- Extreme Programming (XP).
+- Lean.
+- Design Thinking.
+
+Membros: Diego, Eduardo, Erick, Gustavo e Pedro.
+Matéria: Métodos ágeis.
+Professor: Flávio.
+
+LINK do projeto: https://www.figma.com/design/MKSdItmV8JYw2tTxQVZxMR/Untitled?node-id=0%3A1&t=Yqr6fRr253D3YO0P-1
+
+Projeto em Grupo: Desenvolvimento de Aplicativo com Design Thinking e Figma
+
+Nosso projeto em grupo combina técnicas de Design Thinking com a plataforma Figma para criar um protótipo de um aplicativo destinado a 
+auxiliar as autoridades de resgate no Rio Grande do Sul durante emergências, enchentes e na assistência à população e animais.
+
+Visão Geral do Aplicativo:
+
+1. Tela de Login:
+
+- Requisita dados de usuário e senha para login.
+- Opções para criar conta ou login através do Facebook ou Google.
+
+2. Tela de Cadastro:
+
+- Solicita nome, email, senha, confirmação de senha, função do voluntário e número de celular.
+
+3. Mapa de Risco no Rio Grande do Sul devido a Inundações:
+
+- Indica níveis de alerta: Normal (Verde), Alerta (Amarelo), Inundação (Laranja), Inundação Severa (Vermelho).
+- Prioriza regiões com necessidade urgente de resgate e assistência à população e animais.
+
+4. Chat de Comunicação:
+
+- Facilita a comunicação entre autoridades de resgate e vítimas durante emergências.
+
+5. Lista de Doações:
+
+- Permite que usuários de todo o Brasil doem roupas, cestas básicas, produtos de higiene, alimentos e outras opções.
+- Inclui a opção de doação via PIX através de QR code para contribuições monetárias.
+
+6. Postos de Doação Oficiais:
+
+- Direciona para postos oficiais de doação para entrega direta ao estado do Rio Grande do Sul.
+
+Objetivo final:
+
+Este aplicativo visa melhorar a eficiência e a resposta durante situações críticas, fortalecendo o apoio às comunidades afetadas e aos serviços de resgate.
